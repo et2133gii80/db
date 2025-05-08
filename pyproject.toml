@@ -2,7 +2,7 @@
 name = "database-project"
 version = "0.1.0"
 description = ""
-authors = ["alexandra kashina <kashin159@gmail.com>"]
+authors = ["Ilya Gaifullin proskmax@yandex.ru"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
